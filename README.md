@@ -52,4 +52,6 @@ Each of these platforms supports direct GitHub integration — just push your co
 
 If you want your app on a custom domain (e.g., resume-analyzer.com), configure your DNS with your hosting provider (Vercel/Netlify/Render) and connect it in their dashboard.
 
+**Live Demo:** https://resume-analyzer-view.netlify.app/ **
+
 **Built with care by Vishnu Vardhan Bairy**
